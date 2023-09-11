@@ -1,0 +1,6 @@
+﻿  LCS.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(2002,13): error C3878: синтаксическая ошибка: непредвиденный маркер "константа" после "expression"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(2070): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "std::vector<_Ty,_Alloc>"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(2002,13): message : пропущено восстановление ошибки: "константа константа константа  . . . константа"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(2009,5): message : разбор возобновляется здесь
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(2009,5): error C2760: синтаксическая ошибка: непредвиденный элемент "}". Ожидается ";"
